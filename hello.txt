@@ -7,4 +7,10 @@ hello kugou
 hello kugou
 hello kugou
 hello kugou
-hello kugou  hot-fix test
+hello kugou
+hello kugou
+hello kugou
+hello kugou
+hello kugou
+hello kugou
+hello kugou   master branch
