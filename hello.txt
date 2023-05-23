@@ -19,3 +19,4 @@ hello kugou   master test
 hello kugou  hot-fix test
 你好杜兰特 杜兰特下跪
 bash insert
+github insert
