@@ -16,3 +16,5 @@ hello kugou
 hello kugou   master test
 你好酷狗 酷狗下跪
 你好五黄 五黄下跪
+hello kugou  hot-fix test
+你好杜兰特 杜兰特下跪
