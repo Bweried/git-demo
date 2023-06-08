@@ -20,3 +20,5 @@ hello kugou  hot-fix test
 你好杜兰特 杜兰特下跪
 bash insert
 github insert
+gitee insert
+fuck github off
